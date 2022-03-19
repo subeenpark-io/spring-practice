@@ -1,10 +1,10 @@
-package io.subeen.srpingstart;
+package io.subeen.springstart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SrpingStartApplicationTests {
+class SpringStartApplicationTests {
 
 	@Test
 	void contextLoads() {
